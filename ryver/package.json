@@ -18,6 +18,10 @@
     "webviewOptions": {
       "disablewebsecurity": ""
     },
+    "wording": {
+      "url": "ryver.com",
+      "team": "Ryver"
+    },
     "openDevTools": false
   }
 }
